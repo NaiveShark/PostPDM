@@ -1,4 +1,4 @@
 PostPDM
 =======
 
-Repository for http://naiveshark.github.io/PostPDM site.
+Repository for http://naiveshark.postpdm.com/
